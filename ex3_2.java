@@ -1,4 +1,4 @@
-public class ex4 {
+public class ex3_2 {
 
     public static void main(String args[]) {
         double jan = 15000;
@@ -10,3 +10,4 @@ public class ex4 {
         System.out.printf("a média mensal é R$ %.2f", soma/3);
     }
 }
+
